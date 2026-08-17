@@ -1,0 +1,9 @@
+# Models
+
+Trained model files are not included in this repository because of their size.
+
+The notebook generates the trained ResNet50 model after execution.
+
+The final model is saved as:
+
+`resnet50_final.keras`
